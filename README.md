@@ -47,7 +47,7 @@ Nessa atividade o programa  pede para a pessoa digite um número inteiro e, em s
 <img width="876" height="229" alt="image" src="https://github.com/user-attachments/assets/713a0bd9-b97e-4705-98de-1928f0aeb986" />
 <img width="879" height="221" alt="image" src="https://github.com/user-attachments/assets/2feb3b01-45c6-4f0c-af60-a65b9175c78e" />
 
-### 🚨 Atividade 4
+### 🚨 Atividade 5
 <img width="426" height="728" alt="image" src="https://github.com/user-attachments/assets/2877a756-dd00-4233-9663-f38edf53a4f4" />
 
 Esse fluxograma mostra um programa que calcula a média de duas notas: ele começa pedindo ao usuário para digitar a primeira nota e depois a segunda, em seguida faz o cálculo da média somando as duas e dividindo por dois, e por fim mostra na tela o valor da média calculada antes de encerrar.
